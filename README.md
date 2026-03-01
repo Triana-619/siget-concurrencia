@@ -12,14 +12,14 @@ El objetivo es demostrar el control y sincronización de procesos concurrentes u
 
 En el sistema SIGET:
 
-- 🚗 **Sensores de tráfico (Productores)** generan datos sobre:
+-  **Sensores de tráfico (Productores)** generan datos sobre:
   - Cantidad de vehículos
   - Velocidad promedio
   - Marca de tiempo
 
-- 🧠 **Módulos de análisis (Consumidores)** procesan los datos generados por los sensores.
+-  **Módulos de análisis (Consumidores)** procesan los datos generados por los sensores.
 
-- 📦 **Buffer compartido** almacena temporalmente los datos antes de ser procesados.
+-  **Buffer compartido** almacena temporalmente los datos antes de ser procesados.
 
 El buffer tiene capacidad limitada, simulando restricciones reales en sistemas críticos.
 
