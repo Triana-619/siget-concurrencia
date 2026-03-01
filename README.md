@@ -1,4 +1,4 @@
-# 🚦 SIGET - Simulación de Concurrencia con Semáforos
+# SIGET - Simulación de Concurrencia con Semáforos
 
 ## 📌 Descripción del Proyecto
 
