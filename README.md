@@ -62,11 +62,3 @@ El sistema evita:
 - ❌ Consumo de datos inexistentes
 - ❌ Interbloqueo (deadlock)
 
----
-
-## ▶️ Ejecución
-
-Para ejecutar el programa:
-
-```bash
-python concurrencia.py
